@@ -501,11 +501,14 @@ This project is proprietary and confidential.
 
 ---
 
-## Support & Contact
+## Author
+Lakshmanan  
+GitHub: https://github.com/Lakshmanan0310  
 
+## Support & Contact
 For issues and questions:
 - Create an issue on GitHub
-- Contact: manikandanesaki10b@gmail.com
+- Contact: lakshmanan.e1652@gmail.com
 
-**Last Updated**: January 30, 2026
-**Version**: 1.0.0
+Last Updated: January 30, 2026  
+Version: 1.0.0
